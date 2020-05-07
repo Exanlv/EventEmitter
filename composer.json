@@ -1,0 +1,12 @@
+{
+    "name": "exan/event_emitter",
+    "description": "A simple event emitter for PHP",
+    "type": "library",
+    "license": "GPL-3.0",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "EventEmitter\\": "src"
+        }
+    }
+}
